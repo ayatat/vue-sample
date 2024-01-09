@@ -16,3 +16,5 @@ $ explorer.exe index.html
 ### sample_001
 hello world.
 
+### sample_002
+スタイルのバインディングのサンプル
