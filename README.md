@@ -60,3 +60,6 @@ JavaScriptを使ったサンプル
 
 ### sample_016
 image-fallbackディレクティブを使ったサンプル
+
+### sample_017
+描画関数を使ったサンプル
