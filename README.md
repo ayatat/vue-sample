@@ -57,3 +57,6 @@ JavaScriptを使ったサンプル
 
 ### sample_015
 カスタムディレクティブを使ったサンプル
+
+### sample_016
+image-fallbackディレクティブを使ったサンプル
